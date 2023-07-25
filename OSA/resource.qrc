@@ -1,0 +1,40 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon/close.ico</file>
+    <file>icon/settings.ico</file>
+    <file>icon/chart_rb.ico</file>
+    <file>icon/acc_w.ico</file>
+    <file>icon/acc_b.ico</file>
+    <file>icon/circle_b.ico</file>
+    <file>icon/circle_w.ico</file>
+    <file>icon/chart_w.ico</file>
+    <file>icon/chart_b.ico</file>
+    <file>icon/tg_logo.png</file>
+    <file>icon/video-off.png</file>
+    <file>icon/image.svg</file>
+    <file>icon/circle.svg</file>
+    <file>icon/user.svg</file>
+    <file>icon/toggle-right.svg</file>
+    <file>icon/toggle-left.svg</file>
+    <file>icon/video.svg</file>
+    <file>icon/video-off.svg</file>
+    <file>icon/activity.svg</file>
+    <file>icon/sliders.svg</file>
+    <file>icon/account-logout-64.ico</file>
+    <file>icon/activity-feed-32.ico</file>
+    <file>icon/activity-feed-48.ico</file>
+    <file>icon/close-window-64.ico</file>
+    <file>icon/dashboard-5-32.ico</file>
+    <file>icon/dashboard-5-48.ico</file>
+    <file>icon/group-32.ico</file>
+    <file>icon/group-48.ico</file>
+    <file>icon/home-4-32.ico</file>
+    <file>icon/home-4-48.ico</file>
+    <file>icon/Logo.png</file>
+    <file>icon/menu-4-32.ico</file>
+    <file>icon/product-32.ico</file>
+    <file>icon/product-48.ico</file>
+    <file>icon/search-13-48.ico</file>
+  </qresource>
+  <qresource prefix="newi"/>
+</RCC>

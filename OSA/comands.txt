@@ -1,0 +1,4 @@
+pyuic5 qgui.ui -o gui.py
+
+pyrcc5 resource.qrc -o resource_rc.py
+
